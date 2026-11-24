@@ -1,0 +1,6 @@
+{
+  "name": "Global 6 — Học Tiếng Anh Lớp 6 Trực Quan",
+  "description": "Ứng dụng học Tiếng Anh lớp 6 theo chương trình Global Success (Tập 1 & Tập 2) với sơ đồ ngữ pháp tương tác, phòng phát âm chuẩn IPA, thẻ từ vựng có âm thanh và bài tập luyện thi 4 dạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
